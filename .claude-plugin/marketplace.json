@@ -1,0 +1,1 @@
+{"name":"pixel-normals","owner":{"name":"Dodai0419"},"plugins":[{"name":"pixel-normals","source":"./","description":"Make pixel-art sprites react to dynamic light: normal maps from PNGs, sheets and GIFs in one Python file."}]}

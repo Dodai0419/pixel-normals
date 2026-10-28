@@ -1,0 +1,28 @@
+{
+  "width": 48,
+  "height": 48,
+  "animation": {
+    "frame_width": 24,
+    "frame_height": 24,
+    "columns": 2,
+    "frame_count": 4,
+    "delays_ms": [
+      [
+        120,
+        1
+      ],
+      [
+        240,
+        1
+      ],
+      [
+        120,
+        1
+      ],
+      [
+        240,
+        1
+      ]
+    ]
+  }
+}
